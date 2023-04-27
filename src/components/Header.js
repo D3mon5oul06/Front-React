@@ -23,13 +23,13 @@ const Header = () => {
 
             <li>
               <Link to="/List" className="no-underline black">
-                Mostrar_Flores
+                Mostrar_Comics
               </Link>
             </li>
 
             <li>
               <Link to="/create" className="no-underline black" >
-                Guardar_Flores
+                Guardar_Comics
               </Link>
             </li>
           </ul>
